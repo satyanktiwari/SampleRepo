@@ -2,4 +2,4 @@ logic for users
 - code to generate users
 - method 1
 - method 2
-- method 3
+- new method commited by John
